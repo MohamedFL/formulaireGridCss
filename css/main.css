@@ -51,7 +51,7 @@ body{
 .header-container2{
     display: grid;
     grid-template-rows: 200;
-    grid-template-columns:auto auto auto ;
+    grid-template-columns:auto auto auto auto auto ;
     column-gap: 50px;
     margin-top: 30px;
     font-size: 18px;
